@@ -18,8 +18,8 @@
 [<img src="https://github.com/matnbaz/visual/raw/main/star-cta.png" alt="با ستاره دادن به متن‌باز کمک کنید" />](https://github.com/matnbaz/matnbaz)
 
 
-![Discord](https://img.shields.io/discord/912032955956871188?label=Discord%20Server&logo=discord)
-![Telegram](https://img.shields.io/badge/Telegram%20Channel-Join-26A5E4?logo=telegram)
-![Instagram](https://img.shields.io/badge/Instagram%20Page-Follow-E4405F?logo=instagram)
-![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fmatnbaz.net&label=Tweet)
+[![Discord](https://img.shields.io/discord/912032955956871188?label=Discord%20Server&logo=discord)](https://discord.com/invite/SNHSYWsKYQ)
+[![Telegram](https://img.shields.io/badge/Telegram%20Channel-Join-26A5E4?logo=telegram)](https://t.me/matnbaz_net)
+[![Instagram](https://img.shields.io/badge/Instagram%20Page-Follow-E4405F?logo=instagram)](https://www.instagram.com/matnbaz_net)
+[![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fmatnbaz.net&label=Tweet)](https://twitter.com/matnbaz_net)
 <!-- ![Twitter](https://img.shields.io/twitter/follow/matnbaz_net?label=Twitter) -->
